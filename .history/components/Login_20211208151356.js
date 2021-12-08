@@ -6,7 +6,7 @@ function Login() {
   return (
     <div className="flex flex-col items-center justify-center min-h-screen py-2">
       <Image
-        src="https://links.papareact.com/pju"
+        src="https://cli.re/MQn5bY"
         height="300"
         width="550"
         objectFit="contain"
